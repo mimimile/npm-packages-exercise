@@ -14,7 +14,13 @@
   "author": "mimimi",
   "license": "ISC",
   "devDependencies": {
+    "gulp-format-md": "^1.0.0",
+    "should": "^13.2.1",
     "standard": "^11.0.1",
     "tape": "^4.9.0"
+  },
+  "dependencies": {
+    "array-slice": "^1.1.0",
+    "is-number": "^5.0.0"
   }
 }
