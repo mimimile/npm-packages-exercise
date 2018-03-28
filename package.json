@@ -1,0 +1,20 @@
+{
+  "name": "npm-packages-exercise",
+  "version": "1.0.0",
+  "description": "npm-packages-exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run-script unit",
+    "unit": "tape test/*/*.js"
+  },
+  "keywords": [
+    "npm",
+    "node"
+  ],
+  "author": "mimimi",
+  "license": "ISC",
+  "devDependencies": {
+    "standard": "^11.0.1",
+    "tape": "^4.9.0"
+  }
+}
