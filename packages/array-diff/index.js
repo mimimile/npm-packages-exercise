@@ -34,6 +34,6 @@ function  diffArray(one, two) {
     if (hasEle === false) {
       arr.push(ele)
     }
-    return arr
   }
+  return arr
 }
