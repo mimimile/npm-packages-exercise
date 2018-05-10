@@ -22,6 +22,7 @@
   "dependencies": {
     "array-slice": "^1.1.0",
     "is-number": "^5.0.0",
-    "karma": "^2.0.2"
+    "karma": "^2.0.2",
+    "repeat-string": "^1.6.1"
   }
 }
